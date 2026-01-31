@@ -1,0 +1,1 @@
+CreateObject("SAPI.SpVoice").Speak "系统运行正常，请指示。"
